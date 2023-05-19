@@ -1,6 +1,6 @@
 # Instagram Application
 This Application Uses MySQL Database...
-##### :red_square: Its an API Based Web Application
+##### :red_square: It is an Instagram Application...
 ## 🟩: Frameworks and Languages Used -
     1. SpringBoot
     2. JAVA
